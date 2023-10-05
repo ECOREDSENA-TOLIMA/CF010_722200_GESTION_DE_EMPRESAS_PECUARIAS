@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Monitoreo, seguimiento y acciones de mejora en las unidades productivas pecuarias'
