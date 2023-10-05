@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecoredsena-tolima.github.io/CF010_722200_GESTION_DE_EMPRESAS_PECUARIAS/)
 
 #
 
