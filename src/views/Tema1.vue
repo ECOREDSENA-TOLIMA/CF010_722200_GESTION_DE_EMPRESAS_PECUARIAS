@@ -344,8 +344,48 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.fas.fa-atom.p-2
-                    | Disminución en la ingesta de alimento.
+                    i.fas.fa-atom.p-1
+                    | Peso promedio al nacer en kilogramos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso promedio al destete en kilogramos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Edad promedio al destete en meses.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Número de terneros.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Número de terneras.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Porcentaje de nacimiento de hembras.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Mortalidad anual de lactantes.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Mortalidad anual de adultos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Producción de leche diaria en litros.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Número mensual de partos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Ganancia de peso mensual en kilogramos.
                   
           .col-md-6
             figure
@@ -353,13 +393,40 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h3 
+            h3 Porcinos
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                ul
+                ul                  
                   li 
-                    i.fas.fa-atom.p-2
-                    | 
+                    i.fas.fa-atom.p-1
+                    | Edad a la primera monta en meses.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso corporal en kilogramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Conversión de alimento en kilogramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Edad al sacrificio en meses.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Intervalo destete monta en meses.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Número de abortos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Porcentaje de partos por total de hembras en edad reproductiva.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Lechones nacidos vivos por camada.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Lechones nacidos muertos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Partos/Cerda/Año.
                   
           .col-md-6
             figure
@@ -367,44 +434,393 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h3 
+            h3 Aves
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.fas.fa-atom.p-2
-                    | 
+                    i.fas.fa-atom.p-1
+                    | Número de aves que inician – número de aves que finalizan.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Mortalidad diaria.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Mortalidad acumulada.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso corporal en gramos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Longitud del pico en centímetros.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Longitud del tarso en centímetros.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Consumo de alimento diario en gramos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Conversión de alimento en gramos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Masa del huevo en gramos.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Número de huevos día.
+                ul
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Porcentaje de pérdida de huevos sobre el total de la producción. 
                   
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img10.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
-            h3 
+            h3 Especies menores
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.fas.fa-atom.p-2
-                    | 
+                    i.fas.fa-atom.p-1
+                    | Edad destete en días.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso crías al nacer en gramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Número de crías al año.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Partos al año.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso en gramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Camadas / hembra / año.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso crías al destete en gramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Edad al sacrificio en días.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Madurez sexual machos en días.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Madurez sexual hembras en días.
                   
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img11.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
-            h3 
+            h3 Peces
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                ul
+                ul                  
                   li 
-                    i.fas.fa-atom.p-2
-                    | 
-                  
+                    i.fas.fa-atom.p-1
+                    | Peso inicial en gramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Peso final en gramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Edad al sacrificio en días.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Densidad: número de animales por metro cúbico.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Ingesta total individuo en gramos.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Longitud total final individuo en centímetros.
+                  li 
+                    i.fas.fa-atom.p-1
+                    | Porcentaje de mortalidad.
+
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img12.png', alt='')
-        
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Algunos valores de referencia de los parámetros técnicos más empleados en especies pecuarias se presentan en la tabla 2.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Tabla 2.
+          span  #[i  Valores de referencia producción bovina doble propósito en Colombia]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .tabla-c.mb-5
+          table
+            caption Nota. Tomada de Fedegán (2013).
+            thead(style="background-color:#1B3F5E;color:#FFFFFF;")
+              tr
+                th(rowspan=2).text-center(style="border:solid 1px #AFAFAF;") Parámetros productivos
+                th(colspan=3).text-center(style="border:solid 1px #AFAFAF;") Promedio
+              tr(style="background-color:#1B3F5E;color:#FFFFFF;")
+                th(colspan=2).text-center(style="border:solid 1px #AFAFAF;")  Nacional            
+                th.text-center(style="border:solid 1px #AFAFAF;") En empresas sobresalientes
+            tbody
+              tr 
+                td Natalidad (%)	
+                td(align='right') 50	
+                td(align='right') 53	
+                td(align='right') 80,4
+              tr 
+                td Capacidad de carga (UGG/ha)	
+                td(align='right') 0,5	
+                td(align='right') 0,6	
+                td(align='right') 2,2
+              tr 
+                td Ganancia de peso (gramos/día)	
+                td(align='right') 150	
+                td(align='right') 350	
+                td(align='right') 574,0
+              tr 
+                td Intervalo entre partos (días)	
+                td(align='right') 700	
+                td(align='right') 680	
+                td(align='right') 456,0
+              tr 
+                td Edad sacrificio machos (meses)	
+                td(align='right') 46	
+                td(align='right') 39	
+                td(align='right') 38,0
+              tr 
+                td Peso sacrificio machos (kilogramos)	
+                td(align='right') 410	
+                td(align='right') 425	
+                td(align='right') 450,0
+              tr 
+                td Peso destete crías (kilogramos)	
+                td(align='right') 140	
+                td(align='right') 150	
+                td(align='right') 180,0
+              tr 
+                td Edad destete crías (meses)	
+                td(align='right') 8	
+                td(align='right') 9,5	
+                td(align='right') 8,0
+              tr 
+                td Producción leche (litros/vaca/día)	
+                td(align='right') 2,5	
+                td(align='right') 3,5	
+                td(align='right') 6,8
+              tr 
+                td Tiempo de lactancia (meses)	
+                td(align='right') 10	
+                td(align='right') 9	
+                td(align='right') 8,0
+              tr 
+                td Edad al primer parto (meses)	
+                td(align='right') 37	
+                td(align='right') 36	
+                td(align='right') 34,3
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Los parámetros productivos en las especies bovinas son muy distintos dependiendo del tipo de explotación implementada. Los valores del ejemplo corresponden a unidades doble propósito bajo sistemas principalmente extensivos, donde variables como la producción de leche y el tiempo de lactancia tienen valores totalmente diferentes a los que se pueden hallar en lecherías especializadas.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Tabla 3.
+          span  #[i  Comparativo parámetros productivos explotaciones porcícolas]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .tabla-c.mb-5
+          table
+            caption Nota. Tomada de Porkcolombia (2017).
+            thead(style="background-color:#1B3F5E;color:#FFFFFF;")
+              tr
+                th.text-center(style="border:solid 1px #AFAFAF;") Parámetros
+                th.text-center(style="border:solid 1px #AFAFAF;") Colombia
+                th.text-center(style="border:solid 1px #AFAFAF;") España
+                th.text-center(style="border:solid 1px #AFAFAF;") Portugal
+                th.text-center(style="border:solid 1px #AFAFAF;") Francia
+              
+            tbody
+              tr 
+                td Lechones destetados/cerda en producción/año
+                td.text-center 27,4	
+                td.text-center 28,6
+                td.text-center 29,9
+                td.text-center 29,4
+              tr
+                td Porcentaje de abortos
+                td.text-center 0,7
+                td.text-center 1,9
+                td.text-center 1,4
+                td.text-center 0 
+              tr
+                td Nacidos totales/camada
+                td.text-center 12,4
+                td.text-center 14,6
+                td.text-center 15,3
+                td.text-center 14,6 
+              tr
+                td Nacidos vivos/camada
+                td.text-center 11,9
+                td.text-center 13,4
+                td.text-center 14,1
+                td.text-center 13,6 
+              tr
+                td Destetados/camada
+                td.text-center 11
+                td.text-center 11,6
+                td.text-center 12,3
+                td.text-center 11,7 
+              tr
+                td Número de partos/cerda/año
+                td.text-center 2,5
+                td.text-center 2,5
+                td.text-center 2,4
+                td.text-center 2,5 
+              tr
+                td Edad al destete (días)
+                td.text-center 22
+                td.text-center 24
+                td.text-center 27
+                td.text-center 24 
+              tr
+                td Intervalo entre partos (días)
+                td.text-center 146
+                td.text-center 148
+                td.text-center 150
+                td.text-center 146 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Los datos que se presentan en el cuadro anterior corresponden a promedios nacionales donde se tienen explotaciones porcícolas con altos, medianos y bajos niveles de tecnificación. Sin embargo, dan una idea general al productor sobre los valores que se pueden manejar en una explotación promedio, los cuales pueden establecerse como referente para el manejo de la unidad productiva.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Tabla 4.
+          span  #[i  Comparativo de parámetros productivos de principales razas ovinas en Colombia]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .tabla-c.mb-5
+          table
+            caption Nota. Tomada de Bulla (2014).
+            thead(style="background-color:#1B3F5E;color:#FFFFFF;")
+              tr
+                th.text-center(style="border:solid 1px #AFAFAF;") 
+                th.text-center(style="border:solid 1px #AFAFAF;") Ovino de pelo
+                th.text-center(style="border:solid 1px #AFAFAF;") Santa Inés
+                th.text-center(style="border:solid 1px #AFAFAF;") Dorset
+                th.text-center(style="border:solid 1px #AFAFAF;") Katahdin
+              
+            tbody
+              tr
+                  td Peso al nacimiento kilogramos
+                  td.text-center 2,95
+                  td.text-center 4
+                  td.text-center 3,72
+                  td.text-center 3,5 
+              tr
+                  td Peso al destete kilogramos
+                  td.text-center 12,9
+                  td.text-center 15
+                  td.text-center 17
+                  td.text-center 17,9 
+              tr
+                  td Sobrevivencia al destete en porcentaje
+                  td.text-center 80
+                  td.text-center -
+                  td.text-center 81
+                  td.text-center 78,2 
+              tr
+                  td Ganancia diaria de peso en gramos
+                  td.text-center 108
+                  td.text-center 220
+                  td.text-center 203
+                  td.text-center 149 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+        p En cuanto a los parámetros que se presentan en el ejemplo de las explotaciones ovinas, es claro que para cada una de las razas existen valores de referencia diferentes. Esto ocurre igualmente en los demás sistemas productivos, por lo que la definición de los parámetros debe realizarse tomando en cuenta esta variable. Cuanto más específico sea al momento de definir estos parámetros, mayor será la calidad de la información que se genere para el proceso de monitoreo y seguimiento. 
+        p En cuanto a la producción avícola, al igual que ocurre con otros sistemas pecuarios, los parámetros productivos se relacionan directamente con la raza y el tipo de explotación implementado. Sin embargo, desde las empresas que se dedican a la producción de pie de cría, a menudo, se adjuntan fichas técnicas en las que se definen algunos valores de referencia que pueden dar al avicultor una idea de lo que puede llegar a obtener en su unidad productiva en condiciones ideales de manejo. En la siguiente tabla se presentan, por ejemplo, los parámetros productivos de la línea de aves de postura “#[i Babcock Brown]”.
+      .col-lg-6
+          figure
+            img(src='@/assets/curso/temas/tema1/img19.png', alt='')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Tabla 5.
+          span  #[i  Características importantes en gallinas de la línea “Babcock Brown”]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .tabla-c.mb-5
+          table
+            caption Nota. Tomada de Bulla (2014).
+            thead(style="background-color:#1B3F5E;color:#FFFFFF;")
+              tr
+                th.text-center(style="border:solid 1px #AFAFAF;") Parámetro
+                th.text-center(style="border:solid 1px #AFAFAF;") Valor de referencia
+            tbody
+              tr
+                td Periodo de puesta semanas
+                td.text-center 18 -90 
+              tr
+                td Edad al 50 % de puesta en días
+                td.text-center 144 
+              tr
+                td Pico de puesta en %
+                td.text-center 96 
+              tr
+                td Peso medio del huevo en gramos
+                td.text-center 63,8 
+              tr
+                td Número de huevos por ave alojada
+                td.text-center 404 
+              tr
+                td Masa de huevo por ave alojada en kilogramos
+                td.text-center 25,8 
+              tr
+                td Consumo medio diario de pienso en gramos
+                td.text-center 112 
+              tr
+                td Índice de conversión kilogramo/kilogramo
+                td.text-center 2,19 
+              tr
+                td Peso corporal en gramos
+                td.text-center 1975
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Como ejemplo del tema monitoreo de unidades productivas pecuarias, se invita a ver el siguiente video:
+
+    .row.justify-content-center.align-items-center.md-5   
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video          
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/QwbeBx37_uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
 </template>
 
 <script>
