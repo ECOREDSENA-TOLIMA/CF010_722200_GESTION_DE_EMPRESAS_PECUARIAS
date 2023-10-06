@@ -474,12 +474,12 @@ export default {
         {
           nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
