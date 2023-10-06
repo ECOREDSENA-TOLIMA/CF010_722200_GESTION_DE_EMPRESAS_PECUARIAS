@@ -4,4 +4,5 @@
     "source.fixAll": true
   },
   "eslint.run": "onSave",
+  "vue.codeActions.enabled": false,
 }

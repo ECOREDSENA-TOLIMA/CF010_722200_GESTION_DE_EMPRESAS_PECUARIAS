@@ -39,7 +39,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 9.
+          h5 Figura 1.
           span  #[i  Equipos comunes en explotaciones pecuarias]
     
     .row.justify-content-center.align-items-center.mb-5
