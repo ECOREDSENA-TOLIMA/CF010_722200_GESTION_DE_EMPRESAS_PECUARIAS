@@ -452,9 +452,9 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Resolución 136 de 2020 Instituto Colombiano Agropecuario.
-                  p.text-small.mb-0 https://normograma.invima.gov.co/normograma/docs/resolucion_minagricultura_0136_2020.htm
+                  p.text-small.mb-0 https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/bienestar-animal/resol-136-por-la-cual-se-adopta-el-manual-de-c-2.aspx
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://normograma.invima.gov.co/normograma/docs/resolucion_minagricultura_0136_2020.htm" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/bienestar-animal/resol-136-por-la-cual-se-adopta-el-manual-de-c-2.aspx" target="_blank")
                     span Enlace web
                     i.fas.fa-file-download
     .row.justify-content-center.align-items-center.mb-5
@@ -706,7 +706,7 @@
             caption Nota. Tomada de ICA (2020).
             thead(style="background-color:#1B3F5E;color:#FFFFFF;")
             tr
-              th.text-center(style="border:solid 1px #AFAFAF;") 
+              th.text-center(style="border:solid 1px #AFAFAF;") Especie
               th.text-center(style="border:solid 1px #AFAFAF;") Dimensiones de la jaula
               th.text-center(style="border:solid 1px #AFAFAF;") Número de animales
             tbody

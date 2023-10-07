@@ -7,11 +7,11 @@
         span 3
       h1 Registro de novedades y reportes
 
-    .cajon-b.color-primario.p-3.mb-5
+    .cajon-b.color-primario.p-3.mb-5(data-aos="zoom-in-left")
       p.mb-0 El seguimiento a las explotaciones pecuarias es una de las claves para el éxito de este tipo de sistemas productivos, pues de él depende el monitoreo de las variables de productividad, la utilización de los recursos, la programación de las actividades de manejo sanitario, la implementación de los distintos protocolos y el cumplimiento de las metas en el corto, mediano y largo plazo. 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Figura 8.
           span  #[i Ciclo PHVA]
@@ -21,7 +21,7 @@
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='Figura 8 Ciclo PHVA Actuar Planear Hacer Verificar')
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Por lo general, el desarrollo de los procesos de seguimiento se basa en el ciclo PHVA (planear, hacer, verificar y actuar) el cual configura un sistema de monitoreo continuo, es decir, que nunca es una tarea finalizada, sino que, por el contrario, cada vez enriquece más el sistema al identificar las fallas y procurar alternativas de solución. Mediante la utilización de este ciclo, todo el tiempo se están identificando y corrigiendo los problemas que se dan al interior de la unidad productiva con lo cual se aumenta su eficiencia y se mejoran los niveles de rentabilidad. 
         p Para lograr que el ciclo PHVA se implemente de manera correcta, es necesario contar con información confiable, concreta y precisa, por lo que el diseño de los instrumentos para la captura de esa información es un paso fundamental en el proceso de mejora continua.
 
@@ -33,19 +33,19 @@
       h2.my-5 3.1 Elaboración de formatos para captura de información
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in-left")
         p En esta fase del proceso, vale la pena reflexionar sobre las siguientes preguntas: ¿qué se quiere medir?, ¿para qué se va a medir?, ¿cómo se va a medir? A partir de estas preguntas es posible proceder con la elaboración de los formatos para la captura de información.
         .cajon.color-primario.p-4.mb-4(style="background-color:#EBEEE8;")
           p.mb-0 En los sistemas productivos pecuarios existen unos parámetros productivos definidos que al ser analizados dan una idea general del comportamiento de la empresa, por lo que el diseño de los formatos debe recoger una gran cantidad de información, condensarla y ordenarla de manera que su análisis y la posterior toma de decisiones se puedan realizar en muy poco tiempo.
-      .col-lg-4
+      .col-lg-4(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img3.png', alt='Figura 8 Ciclo PHVA Actuar Planear Hacer Verificar')
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p En términos generales, para la elaboración de los formatos de captura de información es importante tener en cuenta para la elaboración de formatos, a saber:
 
-    TabsA.color-acento-botones.mb-5(style="background-color=#DBF9BD")
+    TabsA.color-acento-botones.mb-5(style="background-color=#DBF9BD")(data-aos="zoom-in-left")
       .tarjeta.colorprimario--borde.p-4(titulo="Concreto")
         h4
         p Debe ser un formato de no más de dos páginas con preguntas concretas que no den espacio para interpretaciones ni opiniones. Ejemplo: número de hectáreas – diámetro de la tubería – materia seca por metro cuadrado.
@@ -75,11 +75,11 @@
         p Es importante incluir en el encabezado el tipo de explotación a la que corresponde el formato, el nombre de la unidad productiva, la fecha del registro y los nombres completos de quien recoge la información, así como su número de identificación.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Los formatos son adaptables a las condiciones de cada unidad productiva y pueden ser elaborados en función de lo que se pretenda medir. Para su elaboración existen herramientas informáticas que facilitan mucho el trabajo, la más utilizada es Excel, pero también existen algunas en línea que permiten la captura de datos en tiempo real y su sistematización casi instantánea como “#[i Google Forms, Formiste, Arengu, Formidalbe Forms, Cognito Form, JotForm, Zoho Form o Formstack]”.
         p Para complementar la información visitar el siguiente sitio:
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-10
         .tarjeta.color-secundario.tarj-color.p-3
           .row.justify-content-around.align-items-center
@@ -102,17 +102,17 @@
       h2.my-5 3.2 Diligenciamiento de registros
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Estos son fundamentales en los procesos de captura de información, pues de estos depende la calidad de los datos recolectados. Es necesario, antes de proceder con el diligenciamiento del registro, tomar el tiempo necesario para revisarlo, entenderlo y discutirlo con el equipo de trabajo. Dentro de los tipos de registros más comunes en las explotaciones pecuarias están los siguientes, como se aprecia a continuación.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 16.
           span  #[i Diligenciamiento de registros]
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="zoom-in-left")
         .tabla.mb-5
           table
             tbody
@@ -136,10 +136,10 @@
         p Ahora que ya se sabe cómo se diligencian los formatos, es importante conocer algunas recomendaciones generales al momento de llevar estos registros y las más importantes se describen a continuación:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img4.png', alt='Figura 8 Ciclo PHVA Actuar Planear Hacer Verificar')
-      .col-lg-9
+      .col-lg-9(data-aos="zoom-in-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-verde")
           .row(titulo="Identificar las unidades que se manejan en el registro")
             .col-md-12.mb-4.mb-md-0
@@ -162,11 +162,11 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.3 Manejo y almacenamiento de datos
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Hoy día existen múltiples alternativas para el manejo y procesamiento de la información, lo cual facilita el desarrollo de muchas de las tareas administrativas de la unidad productiva pecuaria. En el mercado actualmente existen aplicaciones como “#[i Teamscope, KoboToolBox, REDcap, Magpi, Jotforms Movil]”, Encuesta CTO y #[i “CommCare”]. Igualmente se han desarrollado aplicaciones como “GetApp” y “Moreapp” que permiten hacer análisis en tiempo real de los parámetros registrados.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in-left")
         .row.justify-content-center.mb-5
           .col-lg-12
             p Además de estas aplicaciones, existen programas de cómputo que facilitan el procesamiento de grandes volúmenes de información, la generación de reportes, el análisis de resultados y la elaboración de gráficos, entre otras cosas, lo cual sin duda facilita el trabajo y la toma de decisiones. Entre los programas de cómputo más utilizados para este propósito están “#[i Excel, ArcGis] y #[i Acces]”.
@@ -174,15 +174,15 @@
           .col-lg-12
             .cajon.color-primario.p-4.mb-4
               p La oferta de programas y aplicaciones para el manejo de las explotaciones agropecuarias y el fortalecimiento de los agronegocios ha evolucionado considerablemente en los últimos años, lo cual ha significado mejoras en el acceso a la información, la conformación de redes de productores y compradores, el acceso a nuevas tecnologías y el intercambio de experiencias exitosas que han fomentado el diálogo y la construcción de conocimiento.
-      .col-lg-4
+      .col-lg-4(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img5.png', alt='Manejo y almacenamiento de datos')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p En lo relacionado con el manejo y almacenamiento de los datos recolectados, en el ejercicio administrativo de la unidad productiva se recomienda lo siguiente:
 
-    TabsA.color-acento-botones.mb-5(style="background-color=#DBF9BD")
+    TabsA.color-acento-botones.mb-5(style="background-color=#DBF9BD")(data-aos="zoom-in-left")
       .tarjeta.colorprimario--borde.p-4(titulo="Tener un archivo central")
         h4
         p En el cual se almacene la información concerniente a la unidad productiva en general. Este archivo se debe subdividir en carpetas de acuerdo con los criterios que considere el administrador (por unidad productiva, por especie, por lote, por finca, por galpón).
@@ -215,7 +215,7 @@
       h2.my-5 3.4 Elaboración de reportes
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p La captura de información en las empresas agropecuarias tiene como propósito facilitar la toma de decisiones, evaluar el comportamiento de la unidad productiva, revisar el cumplimiento de las metas de producción y analizar los parámetros técnicos que dan cuenta de la gestión administrativa. 
         p El proceso que comienza con el diseño de las herramientas para la captura de información llega, entonces, a una fase en la que se analizan los datos, se sistematizan y se organizan para facilitar su lectura y posteriormente actuar con base en los resultados obtenidos. Es así como la generación de los reportes se convierte en un paso fundamental para establecer la dirección de los procesos administrativos, técnicos y financieros de la actividad pecuaria.
 
@@ -225,11 +225,11 @@
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema3/img6.png', alt='Contenidos mínimos')
-      .col-lg-7
+      .col-lg-7(data-aos="zoom-in-left")
         p La generación de los reportes que provienen del análisis técnico y productivo de las unidades pecuarias debe contener información puntual, clara y precisa sobre el funcionamiento de cada uno de los subsistemas de la granja. Estos reportes son de tipo ejecutivo, por lo que la información que contienen es principalmente técnica correspondiente al análisis de variables específicas que sirven para medir y comparar los indicadores relacionados con el desempeño reproductivo, el comportamiento productivo, el estado sanitario y nutricional de los animales. 
         p Para la generación de los reportes no existen modelos estandarizados para todas las granjas pecuarias, pero sí unos contenidos mínimos que se deben tener en cuenta al momento de presentar un reporte técnico, algunos de estos se encuentran descritos a continuación:
 
-    .tarjeta.tarjeta--gris.p-4.mb-5(style="background-color:#EBEEE8")
+    .tarjeta.tarjeta--gris.p-4.mb-5(style="background-color:#EBEEE8")(data-aos="zoom-in-left")
       PasosB.color-primario
         .row(titulo="")
           .row.justify-content-center.align-items-center.mb-5
@@ -259,7 +259,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-6              
               h3 Palabras clave
-              p Definir por lo menos 5 palabras clave que den cuenta del contenido del reporte y que faciliten su búsqueda en las bases de datos. Por ejemplo, #[b Producción de leche – la clarita – Sibaté – reporte 01-10-2020]
+              p Definir por lo menos 5 palabras clave que den cuenta del contenido del reporte y que faciliten su búsqueda en las bases de datos. Por ejemplo, #[b Producción de leche – la clarita – Sibaté – reporte 01-10-2020].
             .col-lg-6   
               figure
                 img(src='@/assets/curso/temas/tema3/img10.png', alt='')
@@ -296,11 +296,11 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img14.png', alt='')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Los reportes gráficos que se presenten (tablas, gráficas, cuadros) deben ser concretos, precisos y contener la mayor cantidad de información posible con el fin de dar el respectivo contexto al lector. Cada uno de estos elementos debe contener un nombre en el cual se indique qué se mide, en qué unidades se presenta, a qué periodo de tiempo corresponde y qué valores finales se obtuvieron. A continuación, se presenta un ejemplo de cómo presentar un gráfico estadístico. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-11
+      .col-lg-11(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Figura 9.
           span  #[i Ejemplo de presentación de información estadística]
@@ -313,26 +313,26 @@
             figure
               img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 9 Ejemplo de presentación de información estadística En la figura se observa la producción de leche en litros periodo enero - septiembre de 2021 finca La Clarita. Con recomendaciones como siempre especificar unidades señalando con flecha litros, indicar los valores señalando el eje vertical en el cual se encuentran los litros, indicar el periodo de tiempo señalando el eje horizontal en el cuál se encuentran los meses, por último, indicar el lugar señalando el nombre de la finca La Clarita.') 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="zoom-in-left")
         .cajon.color-primario.p-4.mb-4(style="background-color:#EBEEE8")
           p #[b Conclusiones:] para cerrar el informe se deben incluir unas conclusiones que den cuenta de las observaciones realizadas y de los aspectos que deben llamar la atención del lector, especialmente datos o cifras que estén fuera de lo común o sobre los que se considera que se debe enfocar la atención. Las conclusiones deben ser netamente técnicas y no pueden dar lugar a interpretaciones u opiniones de parte de quien elabora el reporte.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Para el seguimiento a las actividades productivas es fundamental saber discernir el tipo de información que se presentará en el reporte, pues existen muchos datos que pueden no resultar significativos dependiendo de lo que se desee analizar para la toma de decisiones, de allí que siempre es clave tener la información sistematizada y organizada por periodo de tiempo, por unidad productiva o tipo de explotación, de manera que se pueda ubicar fácilmente dentro de la base de datos. 
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Presentación de evidencias
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in-left")
         p Los reportes dan una idea del comportamiento de la unidad pecuaria, bien sea de manera general o de un área en particular del sistema productivo, por lo que se constituyen en una de las principales herramientas de gestión y administración de este tipo de explotaciones. 
         p Para respaldar los datos presentados en el reporte y dar sustento a lo que allí se evidencia, es posible recurrir a la presentación de evidencias recolectadas en terreno en los procesos de seguimiento y monitoreo. Esto es posible mediante el registro de una bitácora en la que se consignen diariamente las actividades realizadas en la empresa pecuaria. Igualmente, se pueden presentar como evidencia los siguientes registros documentales, así
-      .col-lg-4
+      .col-lg-4(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img16.png', alt='Presentación de evidencias')
     
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-verde")
+    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-verde")(data-aos="zoom-in-left")
       .row(titulo="Actas de visita")
         .col-md-12.mb-4.mb-md-0
           p Es posible respaldar los contenidos de los reportes técnicos con actas de visita, bien sea realizadas por agentes externos a la unidad productiva o las que se puedan levantar en el proceso de control interno de la unidad productiva. Además, se pueden consignar datos importantes para la toma de decisiones entre las cuales se encuentran recomendaciones y oportunidades de mejora.
@@ -355,32 +355,32 @@
         p Buena parte del trabajo del profesional encargado del seguimiento y el monitoreo es identificar los elementos que requieren especial atención de parte del administrador de la unidad productiva, pues estas observaciones son fundamentales para la toma de decisiones y la orientación de los esfuerzos técnicos, económicos y financieros que se requieren. 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-11
+      .col-lg-11(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Figura 10.
           span  #[i Consideraciones para la elaboración de las conclusiones del reporte]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9
+      .col-lg-9(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img17.1.svg', alt='Figura 10 Consideraciones para la elaboración de las conclusiones del reporte Objetividad: apegarse a los datos presentados en el documento sin hacer juicios propios o incluir opiniones al respecto. Respaldo: cada una de las afirmaciones que se hagan en el documento deben tener un sustento técnico verificable y cuantificable. Implicaciones: presentar de una forma concreta y con sustento técnico las implicaciones que tienen para el proceso productivo las observaciones realizadas. Proyección: indicar qué elementos requieren especial atención en el futuro para garantizar que se van a superar las situaciones no deseadas. Concordancia: las conclusiones generalmente concuerdan con los elementos expuestos en la introducción, por lo que lo que allí se consigne sirve de insumo para su elaboración')
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p Establecer las conclusiones del proceso de seguimiento y emitir las correspondientes recomendaciones es una gran responsabilidad, más si se tiene en cuenta que a partir de ellas se realiza la planificación de las actividades de acuerdo con la metodología del ciclo PHVA. En el siguiente ejemplo se presentan algunos de los aspectos que se deben tener en cuenta para la elaboración de las conclusiones.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9
+      .col-lg-9(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Figura 11.
           span  #[i Ejemplo de una conclusión elaborada con base en las consideraciones analizadas]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img22.svg', alt='Figura 11 Ejemplo de una conclusión elaborada con base en las consideraciones analizadas La producción de leche en los meses de julio y agosto se vio considerablemente disminuida debido a que esta época del año coincide con las bajas precipitaciones y las altas temperaturas que afectan la producción de pasto en la finca La Clarita. Por lo tanto, es recomendable diseñar e implementar un sistema de riesgo para el sostenimiento de las praderas sobre todo en las épocas secas del año. Se expresa un dato verificable que posee datos de respaldo. Se hace una recomendación con base en la información observada.')
           figcaption Nota. Tomada de www.comunicacionacademica.uc.cl (s. f.).
    
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-left")
         p En el ejemplo revisado anteriormente, es posible identificar la estructura básica de una conclusión. En ella se incluyen datos concretos, verificables y precisos que dan una idea general de la situación encontrada en el proceso de observación. Igualmente, allí es posible manifestar una correlación entre la baja producción de leche y la poca producción de pastos por efecto de la sequía, con lo cual es posible hacer recomendaciones para evitar que en el futuro se presenten ese tipo de situaciones, tal como se pretende con la implementación del ciclo PHVA. 
 </template>
 

@@ -10,7 +10,7 @@
       h1 Introducción
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los grandes retos que enfrentan los sistemas productivos agropecuarios consisten, sobre todo, en el abastecimiento de alimentos y materias primas, en los volúmenes necesarios y en condiciones de inocuidad, aunque los actuales modelos de consumo también son altamente exigentes en cuanto a trazabilidad de los procesos, sostenibilidad ambiental, mercados justos y producción limpia, lo cual añade otro grado de dificultad a una actividad que de por sí es bastante compleja, como se verá en el siguiente video.
   
     .row.justify-content-center.align-items-center.md-5   
