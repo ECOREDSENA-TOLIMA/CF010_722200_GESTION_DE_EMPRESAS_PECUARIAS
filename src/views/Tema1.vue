@@ -82,9 +82,6 @@
         ul.lista-ul
           li
             i.fas.fa-pen
-            | Verificar que no existan obstrucciones ni fugas en las líneas de conducción de fluidos. 
-          li
-            i.fas.fa-pen
             | Comprobar odómetro, niveles de fluidos, presión de aire en las llantas, y nivel de combustible en el caso de equipos autopropulsados. 
           li
             i.fas.fa-pen
@@ -244,7 +241,7 @@
             .col-lg-6              
               h3 Pisos
               p Se construyen generalmente de cemento con ligero declive para permitir la escorrentía de los desechos líquidos o los excesos de humedad. 
-              p Cuan6o los animales permanecen mucho tiempo dentro de la instalación, se recomienda cubrir los pisos con un material blando como bagazo de caña, cascarilla de arroz o aserrín.
+              p Cuando los animales permanecen mucho tiempo dentro de la instalación, se recomienda cubrir los pisos con un material blando como bagazo de caña, cascarilla de arroz o aserrín.
 
             .col-lg-4   
               figure
@@ -253,7 +250,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-6              
               h3 Paredes
-              p Deben asegurar que no se presenten filtraciones o goteras que puedan generar humedad dentro de la instalación. Deben estar a una altura suficiente para permitir el trabajo cómodo del personal y ofrecer la suficiente ventilación a los animales.
+              p Generalmente se construyen de madera, guadua o mampostería, dependiendo de la resistencia que se requiera. En el caso de emplear guadua o madera, se recomienda cerciorarse de que no existan clavos, alambres, cortes filosos o cualquier otro material de construcción que pueda afectar a los animales o a los manejadores.
             .col-lg-6   
               figure
                 img(src='@/assets/curso/temas/tema1/img5.png', alt='')
@@ -761,7 +758,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="flip-right")
-        p En cuanto a los parámetros que se presentan en el ejemplo de las explotaciones ovinas, es claro que para cada una de las razas existen valores de referencia diferentes. Esto ocurre igualmente en los demás sistemas productivos, por lo que la definición de los parámetros debe realizarse tomando en cuenta esta variable. Cuanto más específico sea al momento de definir estos parámetros, mayor será la calidad de la información que se genere para el proceso de monitoreo y seguimiento. 
+        p En cuanto a los parámetros que se presentan en el ejemplo de las explotaciones ovinas, es claro que para cada una de las razas existen valores de referencia diferentes. Esto ocurre igualmente en los demás sistemas productivos, por lo que la definición de los parámetros deben realizarse tomando en cuenta esta variable. Cuanto más específico sea al momento de definir estos parámetros, mayor será la calidad de la información que se genere para el proceso de monitoreo y seguimiento. 
         p En cuanto a la producción avícola, al igual que ocurre con otros sistemas pecuarios, los parámetros productivos se relacionan directamente con la raza y el tipo de explotación implementado. Sin embargo, desde las empresas que se dedican a la producción de pie de cría, a menudo, se adjuntan fichas técnicas en las que se definen algunos valores de referencia que pueden dar al avicultor una idea de lo que puede llegar a obtener en su unidad productiva en condiciones ideales de manejo. En la siguiente tabla se presentan, por ejemplo, los parámetros productivos de la línea de aves de postura “#[i Babcock Brown]”.
       .col-lg-6(data-aos="flip-right")
           figure

@@ -13,12 +13,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 8.
+          h5 Figura 7.
           span  #[i Ciclo PHVA]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         figure
-          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Figura 8 Ciclo PHVA Actuar Planear Hacer Verificar')
+          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Figura 7 Ciclo PHVA Actuar Planear Hacer Verificar')
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-left")
@@ -115,6 +115,10 @@
       .col-lg-10(data-aos="zoom-in-left")
         .tabla.mb-5
           table
+            thead(style="background-color:#1B3F5E;color:#FFFFFF;")
+              tr
+                th.text-center(style="border:solid 1px #AFAFAF;") Explotación pecuaria
+                th.text-center(style="border:solid 1px #AFAFAF;") Tipos de registros
             tbody
             tr
               td Producción bovina
@@ -194,7 +198,7 @@
         p La cual debe reposar en otro equipo de cómputo o en la red mediante la creación de archivos en la nube. La información de la unidad productiva se debe registrar diariamente, por lo que es importante mantener igualmente actualizada la información de la copia de seguridad.
       .tarjeta.colorprimario--borde.p-4(titulo="Definir información sensible y almacenamiento")
         h4 Definir información sensible y almacenamiento
-        p Es necesario hacer un inventario de las bases de datos. En este inventario se debe dejar registro de la ubicación de los archivos, de la persona responsable y del tipo de información que se maneja en ella
+        p Es necesario hacer un inventario de las bases de datos. En este inventario se debe dejar registro de la ubicación de los archivos, de la persona responsable y del tipo de información que se maneja en ella.
       .tarjeta.colorprimario--borde.p-4(titulo="Codificar nombres de archivos y carpetas")
         h4 Codificar nombres de archivos y carpetas
         p Es una buena práctica, ya que, los nombres extensos pueden causar pérdida de documentos, especialmente cuando se hacen copias de los datos.
@@ -302,7 +306,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 9.
+          h5 Figura 8.
           span  #[i Ejemplo de presentación de información estadística]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(style="background-color:#DBF9BD")
@@ -311,7 +315,7 @@
         .row.justify-content-center.mb-5
           .col-lg-10
             figure
-              img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 9 Ejemplo de presentación de información estadística En la figura se observa la producción de leche en litros periodo enero - septiembre de 2021 finca La Clarita. Con recomendaciones como siempre especificar unidades señalando con flecha litros, indicar los valores señalando el eje vertical en el cual se encuentran los litros, indicar el periodo de tiempo señalando el eje horizontal en el cuál se encuentran los meses, por último, indicar el lugar señalando el nombre de la finca La Clarita.') 
+              img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 8 Ejemplo de presentación de información estadística En la figura se observa la producción de leche en litros periodo enero - septiembre de 2021 finca La Clarita. Con recomendaciones como siempre especificar unidades señalando con flecha litros, indicar los valores señalando el eje vertical en el cual se encuentran los litros, indicar el periodo de tiempo señalando el eje horizontal en el cuál se encuentran los meses, por último, indicar el lugar señalando el nombre de la finca La Clarita.') 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in-left")
         .cajon.color-primario.p-4.mb-4(style="background-color:#EBEEE8")
@@ -327,7 +331,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="zoom-in-left")
         p Los reportes dan una idea del comportamiento de la unidad pecuaria, bien sea de manera general o de un área en particular del sistema productivo, por lo que se constituyen en una de las principales herramientas de gestión y administración de este tipo de explotaciones. 
-        p Para respaldar los datos presentados en el reporte y dar sustento a lo que allí se evidencia, es posible recurrir a la presentación de evidencias recolectadas en terreno en los procesos de seguimiento y monitoreo. Esto es posible mediante el registro de una bitácora en la que se consignen diariamente las actividades realizadas en la empresa pecuaria. Igualmente, se pueden presentar como evidencia los siguientes registros documentales, así
+        p Para respaldar los datos presentados en el reporte y dar sustento a lo que allí se evidencia, es posible recurrir a la presentación de evidencias recolectadas en terreno en los procesos de seguimiento y monitoreo. Esto es posible mediante el registro de una bitácora en la que se consignen diariamente las actividades realizadas en la empresa pecuaria. Igualmente, se pueden presentar como evidencia los siguientes registros documentales, así:
       .col-lg-4(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img16.png', alt='Presentación de evidencias')
@@ -357,12 +361,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 10.
+          h5 Figura 9.
           span  #[i Consideraciones para la elaboración de las conclusiones del reporte]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="zoom-in-left")
         figure
-          img(src='@/assets/curso/temas/tema3/img17.1.svg', alt='Figura 10 Consideraciones para la elaboración de las conclusiones del reporte Objetividad: apegarse a los datos presentados en el documento sin hacer juicios propios o incluir opiniones al respecto. Respaldo: cada una de las afirmaciones que se hagan en el documento deben tener un sustento técnico verificable y cuantificable. Implicaciones: presentar de una forma concreta y con sustento técnico las implicaciones que tienen para el proceso productivo las observaciones realizadas. Proyección: indicar qué elementos requieren especial atención en el futuro para garantizar que se van a superar las situaciones no deseadas. Concordancia: las conclusiones generalmente concuerdan con los elementos expuestos en la introducción, por lo que lo que allí se consigne sirve de insumo para su elaboración')
+          img(src='@/assets/curso/temas/tema3/img17.1.svg', alt='Figura 9 Consideraciones para la elaboración de las conclusiones del reporte Objetividad: apegarse a los datos presentados en el documento sin hacer juicios propios o incluir opiniones al respecto. Respaldo: cada una de las afirmaciones que se hagan en el documento deben tener un sustento técnico verificable y cuantificable. Implicaciones: presentar de una forma concreta y con sustento técnico las implicaciones que tienen para el proceso productivo las observaciones realizadas. Proyección: indicar qué elementos requieren especial atención en el futuro para garantizar que se van a superar las situaciones no deseadas. Concordancia: las conclusiones generalmente concuerdan con los elementos expuestos en la introducción, por lo que lo que allí se consigne sirve de insumo para su elaboración')
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-left")
@@ -371,12 +375,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="zoom-in-left")
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 11.
+          h5 Figura 10.
           span  #[i Ejemplo de una conclusión elaborada con base en las consideraciones analizadas]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="zoom-in-left")
         figure
-          img(src='@/assets/curso/temas/tema3/img22.svg', alt='Figura 11 Ejemplo de una conclusión elaborada con base en las consideraciones analizadas La producción de leche en los meses de julio y agosto se vio considerablemente disminuida debido a que esta época del año coincide con las bajas precipitaciones y las altas temperaturas que afectan la producción de pasto en la finca La Clarita. Por lo tanto, es recomendable diseñar e implementar un sistema de riesgo para el sostenimiento de las praderas sobre todo en las épocas secas del año. Se expresa un dato verificable que posee datos de respaldo. Se hace una recomendación con base en la información observada.')
+          img(src='@/assets/curso/temas/tema3/img22.svg', alt='Figura 10 Ejemplo de una conclusión elaborada con base en las consideraciones analizadas La producción de leche en los meses de julio y agosto se vio considerablemente disminuida debido a que esta época del año coincide con las bajas precipitaciones y las altas temperaturas que afectan la producción de pasto en la finca La Clarita. Por lo tanto, es recomendable diseñar e implementar un sistema de riesgo para el sostenimiento de las praderas sobre todo en las épocas secas del año. Se expresa un dato verificable que posee datos de respaldo. Se hace una recomendación con base en la información observada.')
           figcaption Nota. Tomada de www.comunicacionacademica.uc.cl (s. f.).
    
     .row.justify-content-center.align-items-center.mb-5

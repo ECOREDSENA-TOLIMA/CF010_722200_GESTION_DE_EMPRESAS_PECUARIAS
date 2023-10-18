@@ -246,7 +246,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema2/img7.svg', alt='Figura 5 Principales problemas asociados al mal manejo de la humedad en las explotaciones pecuarias Manejo inadecuado de la humedad de alojamientos Enfermedades parasitarias Enfermedades bacterianas Propagación de patógenos Propagación de vectores Generación de olores ofensivos Contaminación de fuentes hídricas')
+          img(src='@/assets/curso/temas/tema2/img9.svg', alt='Figura 5 Principales problemas asociados al mal manejo de la humedad en las explotaciones pecuarias Manejo inadecuado de la humedad de alojamientos Enfermedades parasitarias Enfermedades bacterianas Propagación de patógenos Propagación de vectores Generación de olores ofensivos Contaminación de fuentes hídricas')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -560,6 +560,14 @@
               td Un animal por alojamiento
               td -
               td 6,00
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Tabla 11.
+          span  #[i Espacio disponible para animales precebo, levante y ceba]
+
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .tabla-c.mb-5
@@ -705,10 +713,11 @@
           table
             caption Nota. Tomada de ICA (2020).
             thead(style="background-color:#1B3F5E;color:#FFFFFF;")
-            tr
-              th.text-center(style="border:solid 1px #AFAFAF;") Especie
-              th.text-center(style="border:solid 1px #AFAFAF;") Dimensiones de la jaula
-              th.text-center(style="border:solid 1px #AFAFAF;") Número de animales
+              tr
+                th.text-center(style="border:solid 1px #AFAFAF;") Especie
+                th.text-center(style="border:solid 1px #AFAFAF;") Dimensiones de la jaula
+                th.text-center(style="border:solid 1px #AFAFAF;") Número de animales
+            tbody
             tbody
             tr
               td Conejos levante
@@ -753,7 +762,7 @@
             tr
               td Codornices de engorde
               td.text-center 100
-              td.text-center No aplica 
+              td.text-center No aplica
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Inventarios 

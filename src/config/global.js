@@ -344,7 +344,7 @@ export default {
       referencia:
         'Instituto Colombiano Agropecuario – ICA. (2014). Resolución 136 de 2020. Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción en el Sector Agropecuario para las especies équidas, porcinas, ovinas y caprinas.',
       link:
-        'https://normograma.invima.gov.co/normograma/docs/resolucion_minagricultura_0136_2020.htm    ',
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/bienestar-animal/resol-136-por-la-cual-se-adopta-el-manual-de-c-2.aspx',
     },
     {
       referencia:
