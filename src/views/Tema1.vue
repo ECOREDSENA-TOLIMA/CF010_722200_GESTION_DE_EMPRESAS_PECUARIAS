@@ -78,7 +78,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img2.1.svg' alt='AvatarTop')
-        h2.text-center Antes de la operación o uso
+        h2.text-center 
         ul.lista-ul
           li
             i.fas.fa-pen
