@@ -31,9 +31,13 @@
           h5 Figura 12.
           span  #[i Ejemplo de una conclusión elaborada con base en las consideraciones analizadas]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="flip-down")
+      .col-lg-8.desktop(data-aos="flip-down")
         figure
           img(src='@/assets/curso/temas/tema4/img2.svg', alt='Figura 12 Consideraciones para el establecimiento de un plan de mejora Convencerse de que la mejora e posible. Evitar las actitudes derrotistas. Evitar las justificaciones y excusas. Ejercer el liderazgo. Involucrar a todo el personal de la unidad productiva en el proceso de mejora. La comprensión del sentido que tiene plantear mejoras.')
+          figcaption Nota. Tomada de www.eduacion.navarra.es (s. f.).
+      .col-lg-8.movil(data-aos="flip-down")
+        figure
+          img(src='@/assets/curso/temas/tema4/img2.1.svg', alt='Figura 12 Consideraciones para el establecimiento de un plan de mejora Convencerse de que la mejora e posible. Evitar las actitudes derrotistas. Evitar las justificaciones y excusas. Ejercer el liderazgo. Involucrar a todo el personal de la unidad productiva en el proceso de mejora. La comprensión del sentido que tiene plantear mejoras.')
           figcaption Nota. Tomada de www.eduacion.navarra.es (s. f.).
 
     .row.justify-content-center.align-items-center.mb-5
@@ -91,10 +95,15 @@
           h5 Figura 13.
           span  #[i Esquema de plan de mejora de la unidad pecuaria]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="flip-down")
+      .col-lg-8.desktop(data-aos="flip-down")
         figure
           img(src='@/assets/curso/temas/tema4/img8.svg', alt='Figura 12 Consideraciones para el establecimiento de un plan de mejora Convencerse de que la mejora e posible. Evitar las actitudes derrotistas. Evitar las justificaciones y excusas. Ejercer el liderazgo. Involucrar a todo el personal de la unidad productiva en el proceso de mejora. La comprensión del sentido que tiene plantear mejoras.')
           figcaption Nota. Tomada de www.eduacion.navarra.es (s. f.).
+      .col-lg-8.movil(data-aos="flip-down")
+        figure
+          img(src='@/assets/curso/temas/tema4/img8.1.svg', alt='Figura 12 Consideraciones para el establecimiento de un plan de mejora Convencerse de que la mejora e posible. Evitar las actitudes derrotistas. Evitar las justificaciones y excusas. Ejercer el liderazgo. Involucrar a todo el personal de la unidad productiva en el proceso de mejora. La comprensión del sentido que tiene plantear mejoras.')
+          figcaption Nota. Tomada de www.eduacion.navarra.es (s. f.).
+      
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-down")

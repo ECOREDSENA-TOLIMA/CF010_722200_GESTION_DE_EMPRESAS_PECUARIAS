@@ -21,9 +21,13 @@
           span  #[i  Principios del bienestar animal]
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10.desktop 
         figure
           img(src='@/assets/curso/temas/tema2/img2.png', alt='Figura 2 Principios del bienestar animal 1. Libre de hambre, sed y desnutrición 2. Libre de temor y angustia. 3. Libre de molestias físicas y térmicas. 4. Libre de dolor, lesión o enfermedad. 5. Libre de impedimentos para manifestar su comportamiento natural.')
+          figcaption Nota. Tomado de ICA (2020).
+      .col-lg-10.movil
+        figure
+          img(src='@/assets/curso/temas/tema2/img2.1.png', alt='Figura 2 Principios del bienestar animal 1. Libre de hambre, sed y desnutrición 2. Libre de temor y angustia. 3. Libre de molestias físicas y térmicas. 4. Libre de dolor, lesión o enfermedad. 5. Libre de impedimentos para manifestar su comportamiento natural.')
           figcaption Nota. Tomado de ICA (2020).
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -208,9 +212,12 @@
           span  #[i  Porcentajes de humedad relativa recomendados para las principales explotaciones pecuarias]
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10.desktop
         figure
           img(src='@/assets/curso/temas/tema2/img7.svg', alt='Figura 4 Porcentajes de humedad relativa recomendados para las principales explotaciones pecuarias Porcinos: 60 - 75 % Aves: 45 - 65 % Ovinos y caprinos: 70 - 80 % Équidos (caballos, mulas, burros): 50 - 80 % N 50 - 55 % N 60 - 65 %')
+      .col-lg-10.movil
+        figure
+          img(src='@/assets/curso/temas/tema2/img7.1.svg', alt='Figura 4 Porcentajes de humedad relativa recomendados para las principales explotaciones pecuarias Porcinos: 60 - 75 % Aves: 45 - 65 % Ovinos y caprinos: 70 - 80 % Équidos (caballos, mulas, burros): 50 - 80 % N 50 - 55 % N 60 - 65 %')
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -244,9 +251,13 @@
           span  #[i  Principales problemas asociados al mal manejo de la humedad en las explotaciones pecuarias]
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10.desktop
         figure
           img(src='@/assets/curso/temas/tema2/img9.svg', alt='Figura 5 Principales problemas asociados al mal manejo de la humedad en las explotaciones pecuarias Manejo inadecuado de la humedad de alojamientos Enfermedades parasitarias Enfermedades bacterianas Propagación de patógenos Propagación de vectores Generación de olores ofensivos Contaminación de fuentes hídricas')
+      .col-lg-10.movil
+        figure
+          img(src='@/assets/curso/temas/tema2/img9.1.svg', alt='Figura 5 Principales problemas asociados al mal manejo de la humedad en las explotaciones pecuarias Manejo inadecuado de la humedad de alojamientos Enfermedades parasitarias Enfermedades bacterianas Propagación de patógenos Propagación de vectores Generación de olores ofensivos Contaminación de fuentes hídricas')
+
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -427,9 +438,12 @@
           span  #[i Tipos de barreras para control de corrientes de aire]
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10.desktop
         figure
           img(src='@/assets/curso/temas/tema2/img13.svg', alt='Figura 6 Tipos de barreras para control de corrientes de aire. En la figura se observan 3 tipos de barreras antes de las conejeras, la primera con obstáculo de un cerro o montículo, la segunda con una casa como obstáculo para la corriente de aire a las conejeras, la tercera con unos arbustos como obstáculo para las conejeras')
+      .col-lg-10.movil
+        figure
+          img(src='@/assets/curso/temas/tema2/img13.1.svg', alt='Figura 6 Tipos de barreras para control de corrientes de aire. En la figura se observan 3 tipos de barreras antes de las conejeras, la primera con obstáculo de un cerro o montículo, la segunda con una casa como obstáculo para la corriente de aire a las conejeras, la tercera con unos arbustos como obstáculo para las conejeras')
 
     Separador
     .row
@@ -781,7 +795,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         figure
-          img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
+          img(src='@/assets/curso/temas/tema2/img15.png', alt='')
           figcaption Nota. Tomada de engormix.com
 
     .row.justify-content-center.align-items-center.mb-5

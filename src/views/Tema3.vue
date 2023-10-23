@@ -16,9 +16,12 @@
           h5 Figura 7.
           span  #[i Ciclo PHVA]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9
+      .col-lg-9.desktop
         figure
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='Figura 7 Ciclo PHVA Actuar Planear Hacer Verificar')
+      .col-lg-9.movil
+        figure
+          img(src='@/assets/curso/temas/tema3/img1.1.svg', alt='Figura 7 Ciclo PHVA Actuar Planear Hacer Verificar')
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-left")
@@ -313,9 +316,12 @@
         br
         br
         .row.justify-content-center.mb-5
-          .col-lg-10
+          .col-lg-10.desktop
             figure
               img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 8 Ejemplo de presentación de información estadística En la figura se observa la producción de leche en litros periodo enero - septiembre de 2021 finca La Clarita. Con recomendaciones como siempre especificar unidades señalando con flecha litros, indicar los valores señalando el eje vertical en el cual se encuentran los litros, indicar el periodo de tiempo señalando el eje horizontal en el cuál se encuentran los meses, por último, indicar el lugar señalando el nombre de la finca La Clarita.') 
+          .col-lg-10.movil
+            figure
+              img(src='@/assets/curso/temas/tema3/img15.1.svg', alt='Figura 8 Ejemplo de presentación de información estadística En la figura se observa la producción de leche en litros periodo enero - septiembre de 2021 finca La Clarita. Con recomendaciones como siempre especificar unidades señalando con flecha litros, indicar los valores señalando el eje vertical en el cual se encuentran los litros, indicar el periodo de tiempo señalando el eje horizontal en el cuál se encuentran los meses, por último, indicar el lugar señalando el nombre de la finca La Clarita.') 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in-left")
         .cajon.color-primario.p-4.mb-4(style="background-color:#EBEEE8")
@@ -364,9 +370,12 @@
           h5 Figura 9.
           span  #[i Consideraciones para la elaboración de las conclusiones del reporte]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9(data-aos="zoom-in-left")
+      .col-lg-9.desktop(data-aos="zoom-in-left")
         figure
           img(src='@/assets/curso/temas/tema3/img17.1.svg', alt='Figura 9 Consideraciones para la elaboración de las conclusiones del reporte Objetividad: apegarse a los datos presentados en el documento sin hacer juicios propios o incluir opiniones al respecto. Respaldo: cada una de las afirmaciones que se hagan en el documento deben tener un sustento técnico verificable y cuantificable. Implicaciones: presentar de una forma concreta y con sustento técnico las implicaciones que tienen para el proceso productivo las observaciones realizadas. Proyección: indicar qué elementos requieren especial atención en el futuro para garantizar que se van a superar las situaciones no deseadas. Concordancia: las conclusiones generalmente concuerdan con los elementos expuestos en la introducción, por lo que lo que allí se consigne sirve de insumo para su elaboración')
+      .col-lg-9.movil(data-aos="zoom-in-left")
+        figure
+          img(src='@/assets/curso/temas/tema3/img17.2.svg', alt='Figura 9 Consideraciones para la elaboración de las conclusiones del reporte Objetividad: apegarse a los datos presentados en el documento sin hacer juicios propios o incluir opiniones al respecto. Respaldo: cada una de las afirmaciones que se hagan en el documento deben tener un sustento técnico verificable y cuantificable. Implicaciones: presentar de una forma concreta y con sustento técnico las implicaciones que tienen para el proceso productivo las observaciones realizadas. Proyección: indicar qué elementos requieren especial atención en el futuro para garantizar que se van a superar las situaciones no deseadas. Concordancia: las conclusiones generalmente concuerdan con los elementos expuestos en la introducción, por lo que lo que allí se consigne sirve de insumo para su elaboración')
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-left")
