@@ -680,7 +680,7 @@
               td Hembra con cría lactante
               td.text-center 1,50
               td.text-center 2,50
-            tr(style="background-color:")
+            tr(style="background-color:#1B3F5E;color:#FFFFFF;")
               td Animales confinamiento grupal
               td(colspan=2)
             tr 

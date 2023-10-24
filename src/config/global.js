@@ -379,6 +379,12 @@ export default {
         'Servicio Nacional de Aprendizaje SENA. (2010). <em>Producción estabulada de ovinos de carne y caprinos de leche.</em> SENA.',
       link: 'https://repositorio.sena.edu.co/handle/11404/7041',
     },
+    {
+      referencia:
+        'Proaño, Gisbert y Pérez (2017). <em>Metodología para la elaboración de un plan de mejora. 3 Ciencias.</em>',
+      link:
+        'https://www.3ciencias.com/articulos/articulo/metodologia-elaborar-plan-mejora-continua/',
+    },
   ],
   creditos: [
     {
