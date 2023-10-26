@@ -308,7 +308,7 @@ export default {
       referencia:
         'Echavarría, A. (2010). <em>El ambiente climático en la producción porcina.</em> CIAP.',
       link:
-        'http://www.ciap.org.ar/Sitio/Sipu/Materiales/Etiqueta-Archivos.jsp?etiqueta=599  ',
+        'http://www.ciap.org.ar/Sitio/Archivos/EL AMBIENTE CLIMATICO EN LA PRODUCCION PORCINA.pdf',
     },
     {
       referencia:
@@ -355,7 +355,7 @@ export default {
     {
       referencia:
         'Instituto Interamericano de Cooperación para la Agricultura – IICA. (2015). <em>Ganado ovino, manual de buenas prácticas.</em> IICA.',
-      link: 'http://repositorio.iica.int/handle/11324/2645  ',
+      link: '',
     },
     {
       referencia:
